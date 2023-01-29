@@ -9,6 +9,5 @@ Given this, we could say that there are 8 possible scenarios/states that a cell 
 ANIMATION
 After initializing the figure to be displayed, FuncAnimation from matplotlib was utilized for the overall animation, showing a step-by-step (row-by-row) formation of the elementary cellular automata. The figure is also stored in a gif file to continuously show the process. Additionally, imshow from matplotlib was also used to display an image with our names composed of a 2-dimensional numpy array. 
 
-
 Sources:
 Ilevski, V. (2021, May 1). Cellular Automata [Source Code]. https://github.com/IlievskiV/Amusive-Blogging-N-Coding/blob/master/Cellular%20Automata/cellular_automata.ipynb
