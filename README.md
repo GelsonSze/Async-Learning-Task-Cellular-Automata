@@ -9,7 +9,8 @@ An elementary cellular automata is a one dimensional cellular automaton where ea
 ## PROGRAM
 
 The program of the elementary cellular automata is placed in a jupyter notebook. The notebook can be found in the repository and it is named as ElementaryCA.ipynb. The program uses rule 30 of the elementary cellular automata as default. Note that the rule number can be changed so long as it is within 0 to 255. 
-> **Do keep in mind that running the program would generate a gif file showing the animation of the elementary cellular automata.**
+
+**Do keep in mind that running the program would generate a gif file showing the animation of the elementary cellular automata.**
 
 ## ANIMATION
 
